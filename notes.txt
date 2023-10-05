@@ -6,4 +6,8 @@ Yes I kow I am not be a good developer but yes I have the required skills from t
 
 Hiii... How are you are you well
 SO are you free....!
+<<<<<<< HEAD
 
+=======
+Now I am starting the codes from scratch.
+>>>>>>> df4d2d7 (second commit)
